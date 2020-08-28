@@ -1,0 +1,53 @@
+
+.navbar-brand{
+   font-family: Anton;
+   font-size: 45px;
+   color: white !important;
+   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+   
+}
+
+.banas {
+   background-color: tomato;
+   margin-top: -50px
+
+}
+
+.container .lol{
+   
+   font-family: Patrick Hand;
+}
+.jumbotron {
+   background-size: cover;
+   height: 550px;
+   margin-top: -75px;
+
+}
+
+.jumbotron .row  {
+   color:white;
+   margin-top: 50px;
+   font-family: Patrick Hand;
+}
+
+.tombol {
+   border-radius: 40px;
+
+}
+
+.nav-link {
+   text-transform: uppercase;
+   font-family: Dosis;
+   font-size: large;
+   color: white !important;
+   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+.site-footer {
+   background-color:rgba(0, 0, 0, 0.7);
+   height: 350px;
+}
+
+.site-footer .rax {
+   margin-top: 60px;
+}
