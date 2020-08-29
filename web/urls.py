@@ -20,4 +20,7 @@ from skul import urls
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('skul.urls')),
+    path('login/', include('skul.urls')),
+    path('post/', include('skul.urls')),
+    path('about/', include('skul.urls')),
 ]

@@ -18,4 +18,8 @@ from skul import views
 
 urlpatterns = [
     path('', views.home, name='home'),
+    path('login', views.login, name='login'),
+    path('post', views.post, name='post'),
+    path('about', views.about, name='about'),
+
 ]
